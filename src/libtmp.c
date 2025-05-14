@@ -2,5 +2,5 @@
 
 void foo(void)
 {
-	printf("call foo NEW\n");
+	printf("call foo NEW NEW\n");
 }
